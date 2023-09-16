@@ -1,0 +1,9 @@
+#general
+
+Richard Hamming:
+
+>You observe that most great scientists have tremendous drive. I worked for ten years with John Tukey at Bell Labs. He had tremendous drive. One day about three or four years after I joined, I discovered that John Tukey was slightly younger than I was. John was a genius and I clearly was not. Well I went storming into Bode’s office and said, “How can anybody my age know as much as John Tukey does?” He leaned back in his chair, put his hands behind his head, grinned slightly, and said, “You would be surprised Hamming, how much you would know if you worked as hard as he did that many years.” I simply slunk out of the office!
+>
+>What Bode was saying was this: “Knowledge and productivity are like compound interest.” Given two people of approximately the same ability and one person who works 10% more than the other, the latter will more than twice outproduce the former. The more you know, the more you learn; the more you learn, the more you can do; the more you can do, the more the opportunity - it is very much like compound interest. I don’t want to give you a rate, but it is a very high rate. Given two people with exactly the same ability, the one person who manages day in and day out to get in one more hour of thinking will be tremendously more productive over a lifetime. I took Bode’s remark to heart; I spent a good deal more of my time for some years trying to work a bit harder and I found, in fact, I could get more work done.
+
+Try to get one more hour of thinking in in the day. This means being efficient and scheduling, so that you can get time in school and at home to do things that make you a better thinker.

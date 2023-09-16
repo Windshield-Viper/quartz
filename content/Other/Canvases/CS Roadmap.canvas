@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"08f2500696f78059","x":-286,"y":-129,"width":250,"height":60,"type":"text","text":"Python"},
+		{"id":"91f6aab2c839773b","x":106,"y":-184,"width":250,"height":60,"type":"text","text":"Data Science"},
+		{"id":"6a267b28e96fb3ef","x":105,"y":-65,"width":250,"height":60,"type":"text","text":"Machine Learning"},
+		{"id":"90f288a5b13af07f","x":104,"y":39,"width":250,"height":60,"type":"text","text":"Web Development"},
+		{"id":"a3361f3d8fc65f91","x":-286,"y":99,"width":250,"height":61,"type":"text","text":"Javascript/HTML/CSS"},
+		{"id":"30cb98ffc5988140","x":-286,"y":240,"width":250,"height":60,"type":"text","text":"C++"},
+		{"id":"a6b2f6907f412251","x":100,"y":227,"width":250,"height":60,"type":"text","text":"Competitive Programming"},
+		{"id":"a80d76394e1a2443","x":104,"y":340,"width":255,"height":60,"type":"text","text":"Smaller things where memory matters"},
+		{"id":"8db1c6cb8a2c43c2","x":400,"y":80,"width":250,"height":50,"color":"1","type":"text","text":"HTML, CSS, JS, TypeScript"},
+		{"type":"text","text":"Python, Pandas, Scikit-learn, matplotlib, TensorFlow","id":"fa2f991d8f9200e6","x":400,"y":-149,"width":280,"height":80,"color":"1"},
+		{"id":"66e0b2aa303c7ce0","x":-286,"y":460,"width":250,"height":60,"type":"text","text":"Other languages to learn @ some point"},
+		{"type":"text","text":"Rust, Mobile App languages","id":"4277facb677b357b","x":40,"y":460,"width":260,"height":60,"color":"1"},
+		{"id":"a271b999f0c8b482","x":460,"y":231,"width":222,"height":289,"color":"4","type":"text","text":"Agenda:\n1. Pandas\n2. Scikit-learn\n3. HTML/CSS\n4. JS\n5. Tensorflow\n6. Typescript\n7. Other"}
+	],
+	"edges":[
+		{"id":"27fbfc39c8c939e9","fromNode":"08f2500696f78059","fromSide":"right","toNode":"91f6aab2c839773b","toSide":"left"},
+		{"id":"0026a8eeb20fe1c7","fromNode":"08f2500696f78059","fromSide":"right","toNode":"6a267b28e96fb3ef","toSide":"left"},
+		{"id":"4ea4dcd7cec08850","fromNode":"08f2500696f78059","fromSide":"right","toNode":"90f288a5b13af07f","toSide":"left"},
+		{"id":"a1f167dc83ed4abb","fromNode":"a3361f3d8fc65f91","fromSide":"right","toNode":"90f288a5b13af07f","toSide":"left"},
+		{"id":"13ef2ed92a445453","fromNode":"91f6aab2c839773b","fromSide":"bottom","toNode":"6a267b28e96fb3ef","toSide":"left"},
+		{"id":"7439d839c17475a9","fromNode":"30cb98ffc5988140","fromSide":"right","toNode":"a6b2f6907f412251","toSide":"left"},
+		{"id":"cc6ce8eb4fb15751","fromNode":"30cb98ffc5988140","fromSide":"right","toNode":"a80d76394e1a2443","toSide":"left"}
+	]
+}

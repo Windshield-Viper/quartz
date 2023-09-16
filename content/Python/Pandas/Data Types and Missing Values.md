@@ -1,0 +1,6 @@
+- The data type of a column is called a `dtype`.
+- To get one: `df.column.dtype` (or run it on the entire DataFrame and get all the columns)
+- Convert columns into different data types by using `astype()` - `df.column.astype('float64')` or whatever other type is desired.
+- Use `pd.isnull()` to see whether or not an entry in a column is null. Example. `reviews[pd.isnull(reviews.country)]` would return every entry that had no country (it would say NaN, or Not a Number)
+- Use `fillna()` to fill these empty spots – `df.column.fillna("unknown")`
+- If a value needs to be changed/replaced, use `replace` – `df.column.replace("a", "b")`

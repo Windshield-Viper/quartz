@@ -1,0 +1,1 @@
+A naive implementation is a programming technique that prioritizes imperfect shortcuts for the sake of speed, simplicity, or lack of knowledge. It’s the solution that is most intuitive or direct, which is not necessarily a bad thing.
