@@ -1,3 +1,0 @@
-- These are similar to [[Series]].
-- Keys of dictionaries (what you call to get a result out of them) have to be immutable objects (i.e. strings, ints, etc NOT lists and things like them)
-- Use `del` to remove values from a dictionary.

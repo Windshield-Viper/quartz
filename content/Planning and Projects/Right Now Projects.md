@@ -1,7 +1,0 @@
-- [ ] AI/Data Analysis Self Study ⏫
-	- Done by: [[10-11-23|Oct 11]]
-- [ ] Comp math studying ⏫
-	- Ongoing
-- [ ] Comp programming self study ⏫
-	- [[Competitive Programming/(0) Overall Plan|Competitive Programming Plan]]
-- [ ] Find a professor to work with [[Planning and Projects/Profs and Internships]] ⏫ 
