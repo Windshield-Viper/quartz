@@ -1,4 +1,4 @@
-Hello! I’m Sid Gupta, a high school student from Rhode Island. I really enjoy coding, doing math, playing chess, and occasionally nerding out over metroidvania and roguelike video games. Look around this site to find my [[Projects|projects]], my [[Interests|interests]], a couple of things I’ve [[Recent Events|recently done]], and more. 
+Hello! I’m Sid Gupta, a high school student from Rhode Island. I really enjoy coding, doing math, playing chess, and playing metroidvania and roguelike video games. Look around this site to find my [[Projects|projects]], my [[Interests|interests]], a couple of things I’ve [[Recent Events|recently done]], and more. 
 ## Contact Info
 Here’s my [GitHub](https://github.com/Windshield-Viper).
 ## About this site
