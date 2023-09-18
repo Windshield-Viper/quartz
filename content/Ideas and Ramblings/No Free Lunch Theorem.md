@@ -1,0 +1,3 @@
+The [no free lunch theorem](https://en.wikipedia.org/wiki/No_free_lunch_in_search_and_optimization) states that any two algorithms are equal in average performance across all possible problems. There’s not really a shortcut to finding the best solution, at least for certain types of problems. 
+
+This brings up the question – is it really necessary to find the “best solution”? Or is getting one that’s “good enough” sufficient?
