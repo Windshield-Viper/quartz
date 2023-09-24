@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     },
     baseUrl: "siddharthgupta.vercel.app",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "created",
+    defaultDateType: "modified",
     theme: {
       typography: {
         header: "Schibsted Grotesk",
