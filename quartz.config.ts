@@ -46,9 +46,11 @@ const config: QuartzConfig = {
     transformers: [
       Plugin.FrontMatter(),
       Plugin.TableOfContents(),
+      /*
       Plugin.CreatedModifiedDate({
         priority: ["filesystem", "frontmatter"], // you can add 'git' here for last modified from Git but this makes the build slower
       }),
+      */
       Plugin.SyntaxHighlighting(),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
