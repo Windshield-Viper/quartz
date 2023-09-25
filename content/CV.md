@@ -20,7 +20,7 @@
 ---
 
 ## Activities
-- Varsity Team, BHS [Science Olympiad](https://www.soinc.org/) (2022-Present) – competing statewide/nationally in science events; helped the team win States in the 22-23 season and attended Nationals
+- Varsity Team, BHS [Science Olympiad](https://www.soinc.org/) (2022-Present) – competing statewide/nationally in science events; only freshman on the States team in the 22-23 season, competed in Nationals as well
 - Varsity Team, BHS Chess Team (2022-Present) – with three other teammates, competing against schools across the state; helped the team win States in 22-23 season
 - Team Member, [RI American Regions Math League Team](https://sites.google.com/site/teamriarml/home?authuser=0) (2021-Present) – competing nationally on a team with the state’s top math students
 - Co-Founder – Barrington High School Chess Club (2022-Present) – currently over 30 members
