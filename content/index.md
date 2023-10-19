@@ -5,4 +5,4 @@ Hello! I’m Sid Gupta, a high school student from Rhode Island. I really enjoy 
 ## Contact Info
 Here’s my [GitHub](https://github.com/Windshield-Viper). Email me at [emailsiddha@gmail.com](mailto:emailsiddha@gmail.com). 
 ## About this site
-This site was created with [Quartz](https://quartz.jzhao.xyz/), a static site generator that turns Markdown into a web-based digital garden.
+This site was created with [Quartz](https://quartz.jzhao.xyz/), a static site generator that turns Markdown into a web-based digital garden. Super cool, right?
