@@ -10,7 +10,7 @@ I’m one of the developers. Our site is coded using Typescript and the Astro fr
 - Find the website at [computerclub.dev](https://computerclub.dev).
 ## Chess
 I’m a part of the 5-person chess team at my school. Duties involve competing in chess competitions across the state as well as leading and promoting our larger school chess club.
-- Instagram page TBA!
+- Instagram page [here](https://instagram.com/barringtonchess?igshid=MzRlODBiNWFlZA==)!
 ## Mathematics
 I enjoy competing in math competitions like the AIME and HMMT and also doing math in school. Most of all, I like doing math with my friends.
 - My website [sidsmathnotes.vercel.app](https://sidsmathnotes.vercel.app) is a wiki of all my notes for AP Calculus AB. My friends and I use it as a study resource, and making the notes is a great way for me to [work with the garage door up](https://notes.andymatuschak.org/Work_with_the_garage_door_up).
